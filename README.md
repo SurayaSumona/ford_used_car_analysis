@@ -7,6 +7,7 @@
 * Check the data types and missing values
 * Check the basic statistics of numerical features
 * Find the percentage of uniquee values and reset the index,rename and round the catergorical variables 
+
 **Exploring the data using different data visualization plots**:
 * Barplot
 * Scatterplot
