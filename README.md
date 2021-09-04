@@ -1,5 +1,6 @@
-# ford_used_car_EDA
-### dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
+# Data Analysis and Data Visualization of the Ford used cars
+
+
 ### Goal of this project:
 #### Learn Data visualization and predict the price of the used cars using Machine learning algorithm
 **Exploratory Data Analysis**:
@@ -17,3 +18,4 @@
 * ECDF ( Emperical Cumulative Distribution Function)
 * Boxplot
 * Violinplot 
+### Reference of this Dataset: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
