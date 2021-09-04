@@ -30,7 +30,8 @@ In this dataset, there has some ford used car's information. Here are the descri
 * ECDF ( Emperical Cumulative Distribution Function)
 * Boxplot
 * Violinplot 
-**EDA using GroupBy/Pivot_Table and Barplot  based on some features such as model, transmission, and fuelType.
+
+**EDA using GroupBy/Pivot_Table and Barplot  based on some features such as model, transmission, and fuelType**
 * What are the top 5 selling car models in the dataset?
 * What's the average selling price of the top 5 selling car models?
 * What's the total sale of the top 5 selling car models?
