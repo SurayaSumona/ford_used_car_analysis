@@ -2,7 +2,7 @@
 In this dataset, there has some ford used car's information. Here are the descriptions of the columns for the dataset:
 
 **Target variable:**
-**Price:** selling price of the cars
+* **Price:** selling price of the cars
 
 **Features:**
 * **model:** list of the Ford cars
