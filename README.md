@@ -1,8 +1,18 @@
 # Data Analysis and Data Visualization of the Ford used cars
-
+In this dataset, there has some ford used car's information. Here are the descriptions of the columns for the dataset:
+**Target variable:**
+**Price:** selling price of the cars
+**Features:**
+**model:** list of the Ford cars
+**year:** when the car was made
+**transmission:** transmission adapts the output of the internal combustion engine to the drive wheels
+**mileage:** The mileage of a vehicle is the number of miles that it can travel using one gallon or litre of fuel
+**fuelType:** different fuels a vehicle may use
+**mpg**: miles per gallon the vehicle can travel
+**engineSize:** engineSize is the volume of fuel and air that can be pushed through a car's cylinders
 
 ### Goal of this project:
-#### Learn Data visualization and predict the price of the used cars using Machine learning algorithm
+#### Learn Data visualization and predict the resale price of the used cars using Machine learning algorithm
 **Exploratory Data Analysis**:
 * Read the data as Pandas Dataframe
 * Check the data types and missing values
@@ -18,4 +28,9 @@
 * ECDF ( Emperical Cumulative Distribution Function)
 * Boxplot
 * Violinplot 
+**EDA using GroupBy/Pivot_Table and Barplot  based on some features such as model, transmission, and fuelType.
+* What are the top 5 selling car models in the dataset?
+* What's the average selling price of the top 5 selling car models?
+* What's the total sale of the top 5 selling car models?
+
 ### Reference of this Dataset: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
