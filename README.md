@@ -2,18 +2,16 @@
 In this dataset, there has some ford used car's information. Here are the descriptions of the columns for the dataset:
 
 **Target variable:**
-
 **Price:** selling price of the cars
 
 **Features:**
-
-**model:** list of the Ford cars
-**year:** when the car was made
-**transmission:** transmission adapts the output of the internal combustion engine to the drive wheels
-**mileage:** The mileage of a vehicle is the number of miles that it can travel using one gallon or litre of fuel
-**fuelType:** different fuels a vehicle may use
-**mpg**: miles per gallon the vehicle can travel
-**engineSize:** engineSize is the volume of fuel and air that can be pushed through a car's cylinders
+* **model:** list of the Ford cars
+* **year:** when the car was made
+* **transmission:** transmission adapts the output of the internal combustion engine to the drive wheels
+* **mileage:** The mileage of a vehicle is the number of miles that it can travel using one gallon or litre of fuel
+* **fuelType:** different fuels a vehicle may use
+* **mpg**: miles per gallon the vehicle can travel
+* **engineSize:** engineSize is the volume of fuel and air that can be pushed through a car's cylinders
 
 ### Goal of this project:
 #### Learn Data visualization and predict the resale price of the used cars using Machine learning algorithm
