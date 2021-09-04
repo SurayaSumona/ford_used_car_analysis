@@ -1,8 +1,12 @@
 # Data Analysis and Data Visualization of the Ford used cars
 In this dataset, there has some ford used car's information. Here are the descriptions of the columns for the dataset:
+
 **Target variable:**
+
 **Price:** selling price of the cars
+
 **Features:**
+
 **model:** list of the Ford cars
 **year:** when the car was made
 **transmission:** transmission adapts the output of the internal combustion engine to the drive wheels
