@@ -36,4 +36,17 @@ In this dataset, there has some ford used car's information. Here are the descri
 * What's the average selling price of the top 5 selling car models?
 * What's the total sale of the top 5 selling car models?
 
+# Machine Learning Algorithms
+**Supervised Learning: Linear Regression and Regression accuracy metrics**:
+* Understanding the equation of a straight line
+* feature coefficient (slope, gradient, m)
+* bias coeffcient (y-intercept, c)
+* loss function, cost function, objective function, error function
+* Mean Absolute Error (MAE)
+* Mean Absolute Percentage Error (MAPE)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
+* R-squared or coefficient of determination
+* Prediction result evaluation
+
 ### Reference of this Dataset: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
